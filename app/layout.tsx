@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Abolfazl Sample',
   description: 'by Joodi.me',
   generator: 'Joodi.me',
+  icons: {
+    icon: '/favicon.ico',
+  }
 }
 
 const poppins = Poppins({
